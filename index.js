@@ -32,5 +32,3 @@ async function downloadBlob() {
      return "Error downloading blob:";
   }
 }
-
-downloadBlob();
